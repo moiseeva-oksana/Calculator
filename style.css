@@ -1,0 +1,31 @@
+table {
+  border-collapse: collapse;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  border: 3px solid #9D82B1;
+}
+button {
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+    color: #5F3A63;
+}
+td {
+    background-color: #E3DAE8;
+    color: #5F3A63;
+
+}
+.num {
+  background-color: #e6e6ff;
+}
+.operation {
+  background-color: #ffe6ff;
+}
+.textarea {
+    border: 2px solid #9D82B1;
+    height: 60px;
+    background-color: #E3DAE8;
+    font-size: 28px;
+    text-align: center;
+}
